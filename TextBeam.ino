@@ -1,3 +1,5 @@
+// Author: Fırat İlhan github.com/firatillhan
+
 #include <SoftwareSerial.h>
 #include <LCD5110_Basic.h>
 
